@@ -22,13 +22,21 @@ public class Circle{
      * Create a new circle at default position with default color.
      */
     public Circle(){
-        diameter = 30;
+        diameter = 15;
         xPosition = 20;
         yPosition = 15;
         color = "blue";
         isVisible = false;
     }
 
+    public void setX(int x){
+        xPosition = x;
+    }
+        
+    public void setY(int y){
+        yPosition = y;
+    }
+        
     /**
      * Make this circle visible. If it was already visible, do nothing.
      */
@@ -158,7 +166,7 @@ public class Circle{
      */
     private void draw(){
         if(isVisible) {
-            Canvas canvas = Canvas.getCanvas();
+            Canvas canvas = Canvas.getCanvas(0,0);
             canvas.draw(this, color, 
                 new Ellipse2D.Double(xPosition, yPosition, 
                 diameter, diameter));
@@ -171,7 +179,7 @@ public class Circle{
      */
     private void erase(){
         if(isVisible) {
-            Canvas canvas = Canvas.getCanvas();
+            Canvas canvas = Canvas.getCanvas(0,0);
             canvas.erase(this);
         }
     }

@@ -18,12 +18,18 @@
         public int getX(){
             return x;
         }
-                            
+        
+                                    
         public void setX (int x){
             this.x = x;
             super.setxPosition(this.x);
         }
-                    
+        
+        public void setY (int y){
+            super.setyPosition(y);
+        }
+            
+               
         public int getAncho(){
             return ancho;
         }
@@ -32,8 +38,8 @@
             this.ancho = ancho;
         }
         
-          public int getLargo(){
-            return ancho;
+        public int getLargo(){
+            return largo;
         }
                     
         public void setLargo (int largo){

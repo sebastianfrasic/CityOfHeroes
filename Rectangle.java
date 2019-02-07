@@ -24,8 +24,8 @@ public class Rectangle{
     public Rectangle(){
         height = 30;
         width = 40;
-        xPosition = 70;
-        yPosition = 230;
+        xPosition = 0;
+        yPosition = 0;
         color = "black";
         isVisible = false;
     }
@@ -34,10 +34,17 @@ public class Rectangle{
         this.xPosition = x;
     }
     
+    public void setyPosition(int y){
+        this.yPosition = y;
+    }
+    
     public int getxPosition(){
         return this.xPosition;
     }
     
+    public String getColor(){
+        return color;
+    }
   
     /**
      * Make this rectangle visible. If it was already visible, do nothing.
@@ -203,7 +210,7 @@ public class Rectangle{
 
     private void draw() {
         if(isVisible) {
-            Canvas canvas = Canvas.getCanvas();
+            Canvas canvas = Canvas.getCanvas(0,0);
             canvas.draw(this, color,
                 new java.awt.Rectangle(xPosition, yPosition, width, height));
             canvas.wait(10);
@@ -215,7 +222,7 @@ public class Rectangle{
      */
     private void erase(){
         if(isVisible) {
-            Canvas canvas = Canvas.getCanvas();
+            Canvas canvas = Canvas.getCanvas(0,0);
             canvas.erase(this);
         }
     }

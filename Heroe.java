@@ -22,7 +22,8 @@
             this.color = color;
             super.changeColor(this.color);
         }
-                    
+        
+              
         public int getEdificioAparicion(){
             return edificioAparicion;
         }
@@ -35,6 +36,7 @@
             return fuerza;
         }
         
+              
         public void makeVisible(){
             super.makeVisible();
         }
@@ -43,7 +45,8 @@
             super.makeInvisible();
         }
         
-        
+        public void barraFuerza(){
+        }
                     
         
 }
