@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CityOfHeroesContestTest
+comment1.params=
+comment1.target=void\ deberiaSimular()
+comment1.text=\r\n\ \ \ \ @Test\r\n\ \ \ \ public\ void\ deberiaSimular(){\r\n\ \ \ \ \ \ \ \ CityOfHeroesContest\ problema\ \=\ new\ CityOfHeroesContest();\r\n\ \ \ \ \ \ \ \ int[]\ config\ \=\ {4,1,100,55,1,1};\r\n\ \ \ \ \ \ \ \ int[][]\ edificios\ \=\ {{0,10,20,30}};\r\n\ \ \ \ \ \ \ \ problema.simulate(config,edificios,3);\r\n\ \ \ \ }\r\n
+comment2.params=
+comment2.target=void\ deberiaSolve()
+comment3.params=
+comment3.target=void\ deberiaSolve1()
+comment4.params=
+comment4.target=void\ tearDown()
+comment4.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+numComments=5

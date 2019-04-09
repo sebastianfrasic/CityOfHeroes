@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EdificioColorido
+comment0.text=\r\n\ El\ edificio\ cambia\ su\ color\ cuando\ un\ h\u00E9roe\ cae\ en\ \u00E9l\r\n
+comment1.params=x\ ancho\ largo\ dureza\ largoCiudad
+comment1.target=EdificioColorido(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ constructor\ de\ la\ clase\ Edificio\ Colorido\r\n
+comment2.params=
+comment2.target=java.lang.String\ pideColor()
+comment3.params=x\ y\ largoCiudad
+comment3.target=boolean\ tocaEdificio(int,\ int,\ int)
+numComments=4

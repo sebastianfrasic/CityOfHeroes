@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HeroeClimber
+comment0.text=\r\n\ El\ heroe\ Climber\ no\ rompe\ los\ edificios,\ los\ escala.\r\n\ Es\ gris\ por\ defecto\r\n
+comment1.params=color\ edificioAparicion\ fuerza
+comment1.target=HeroeClimber(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ constructor\ de\ la\ clase\ Heroe\r\n
+comment2.params=
+comment2.target=java.lang.String\ pideColor()
+comment3.params=y\ x\ e\ largoCiudad
+comment3.target=boolean\ aSalvo(int,\ int,\ Edificio,\ int)
+comment4.params=e\ x\ y
+comment4.target=void\ escalarEdificio(Edificio,\ int,\ int)
+numComments=5

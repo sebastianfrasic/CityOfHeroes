@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EdificioFlexible
+comment0.text=\r\n\ El\ edificio\ flexible\ cambia\ su\ forma\ si\ as\u00ED\ lo\ necesitan\ \ los\ h\u00E9roes\ y\ otros\ edificios\r\n
+comment1.params=x\ ancho\ largo\ dureza\ largoCiudad
+comment1.target=EdificioFlexible(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ constructor\ de\ la\ clase\ Edificio\ Flexible\r\n
+comment2.params=
+comment2.target=java.lang.String\ pideColor()
+comment3.params=xN\ anchoN
+comment3.target=boolean\ molestar(int,\ int)
+comment4.params=x\ y\ largoCiudad
+comment4.target=boolean\ tocaEdificio(int,\ int,\ int)
+comment5.params=x\ y\ largoCiudad
+comment5.target=boolean\ tocaEdificioSafe(int,\ int,\ int)
+numComments=6

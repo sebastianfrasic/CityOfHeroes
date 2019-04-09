@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CityOfHeroesContest
+comment0.text=\r\n\ Clase\ para\ resolver\ el\ problema\ de\ la\ marat\u00F3n\ \r\n\ \r\n\ @author\ Juan\ Sebastian\ Fr\u00E1sica\ y\ Juan\ Sebasti\u00E1n\ G\u00F3mez\r\n\ \r\n
+comment1.params=
+comment1.target=CityOfHeroesContest()
+comment2.params=configuracion\ edificios\ building
+comment2.target=boolean\ simulate(int[],\ int[][],\ int)
+comment3.params=grafo\ source
+comment3.target=int[]\ bfs(int[][],\ int)
+comment4.params=tarjet\ padres
+comment4.target=int[]\ ruta(int,\ int[])
+comment5.params=configuracion\ edificios
+comment5.target=java.lang.String[]\ solve(int[],\ int[][])
+comment6.params=ancho\ v\ edificios\ posHeroe
+comment6.target=CityOfHeroes\ armarCiudad(int,\ int,\ int[],\ int)
+comment7.params=city\ edificios\ v
+comment7.target=int[][]\ armarGrafo(CityOfHeroes,\ int[],\ int)
+comment8.params=source\ grafo\ edificios
+comment8.target=int[]\ dijkstra(int,\ int[][],\ int[])
+comment8.text=\r\nDijkstra\ \r\n
+comment9.params=s
+comment9.target=void\ alerta(java.lang.String)
+numComments=10

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CityOfHeroesContest
+comment0.text=\r\n\ Clase\ para\ resolver\ el\ problema\ de\ la\ marat\u00F3n\ \r\n\ \r\n\ @author\ Juan\ Sebastian\ Fr\u00E1sica\ y\ Juan\ Sebasti\u00E1n\ G\u00F3mez\r\n\ \r\n
+comment1.params=
+comment1.target=CityOfHeroesContest()
+comment2.params=configuracion\ edificios\ building
+comment2.target=boolean\ simulate(int[],\ int[][],\ int)
+comment2.text=\r\n\ Simulacion\ de\ la\ ciudad\r\n\ @param\ configuracion\ Caracteristicas\ de\ la\ ciudad\:\ columnas,\ filas,\ anchoEdificio,\ velocidad,\ x,\ y\r\n\ @param\ edificios\ Alturas\ de\ los\ edificios\r\n\ @param\ building\ A\ cual\ edificio\ va\ a\ saltar\ el\ heroe\r\n\ @return\ Si\ puedo\ saltar\ o\ no\ a\ building\r\n
+comment3.params=grafo\ source
+comment3.target=int[]\ bfs(int[][],\ int)
+comment4.params=target\ padres
+comment4.target=int[]\ ruta(int,\ int[])
+comment5.params=configuracion\ edificios
+comment5.target=java.lang.String[][]\ solve(int[],\ int[][])
+comment5.text=\r\n\ Soluci\u00F3n\ del\ problema\ de\ la\ marat\u00F3n\r\n\ @param\ configuracion\ Caracteristicas\ de\ la\ ciudad\:\ [columnas,\ filas,\ anchoEdificio,\ velocidad,\ x,\ y]\r\n\ @param\ edificios\ Alturas\ de\ los\ edificios\r\n\ @return\ Respuestas\ de\ la\ soluci\u00F3n\ convertida\ en\ String\r\n
+comment6.params=ancho\ v\ edificios\ posHeroe
+comment6.target=CityOfHeroes\ armarCiudad(int,\ int,\ int[],\ int)
+comment7.params=city\ edificios\ v
+comment7.target=int[][]\ armarGrafo(CityOfHeroes,\ int[],\ int)
+comment8.params=source\ grafo\ edificios
+comment8.target=int[]\ dijkstra(int,\ int[][],\ int[])
+comment8.text=\r\nEncuentra\ la\ ruta\ mas\ corta\ desde\ un\ punto\ de\ inicio\ a\ cada\ punto\ del\ grafo\ \r\n@param\ source\ punto\ de\ inicio\ \r\n@param\ grafo\ grafo\ a\ revisar\ \r\n@edificios\ edificioas\ de\ la\ ciudad\r\n@return\ las\ distancias\ a\ los\ puntos\ del\ grafo\ \r\n
+comment9.params=s
+comment9.target=void\ alerta(java.lang.String)
+numComments=10

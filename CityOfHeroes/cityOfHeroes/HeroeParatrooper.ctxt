@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HeroeParatrooper
+comment0.text=\r\n\ El\ heroe\ Paratrooper\ si\ se\ va\ a\ estrellar\ con\ los\ l\u00EDmites\ de\ la\ ciudad,\ desciende.\r\n\ Es\ magenta\ por\ defecto\r\n
+comment1.params=color\ edificioAparicion\ fuerza
+comment1.target=HeroeParatrooper(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ constructor\ de\ la\ clase\ Heroe\r\n
+comment2.params=
+comment2.target=java.lang.String\ pideColor()
+comment3.params=anchoCiudad\ x\ y\ largoCiudad\ edificios\ ciudad
+comment3.target=boolean\ estrellado(int,\ int,\ int,\ int,\ java.util.ArrayList,\ CityOfHeroes)
+comment4.params=x\ y\ largoCiudad\ edificios\ ciudad
+comment4.target=void\ caer(int,\ int,\ int,\ java.util.ArrayList,\ CityOfHeroes)
+numComments=5

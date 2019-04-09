@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HeroeCareful
+comment0.text=\r\n\ El\ heroe\ Careful\ nunca\ da\u00F1a\ un\ edificio,\ prefiere\ no\ saltar.\r\n\ Es\ azul\ por\ defecto\r\n
+comment1.params=color\ edificioAparicion\ fuerza
+comment1.target=HeroeCareful(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ constructor\ de\ la\ clase\ Heroe\ Careful\r\n
+comment2.params=
+comment2.target=java.lang.String\ pideColor()
+comment3.params=ciudad\ velocidad\ angulo
+comment3.target=boolean\ saltar(CityOfHeroes,\ int,\ int)
+numComments=4

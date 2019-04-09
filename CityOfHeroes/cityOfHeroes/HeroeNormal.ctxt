@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HeroeNormal
+comment0.text=\r\n\ Clase\ Heroe\r\n\ Representa\ a\ un\ heroe\ normal,\ estos\ son\ de\ color\ negro\ por\ defecto.\r\n
+comment1.params=color\ edificioAparicion\ fuerza
+comment1.target=HeroeNormal(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ constructor\ de\ la\ clase\ Heroe\r\n
+comment2.params=
+comment2.target=java.lang.String\ pideColor()
+numComments=3

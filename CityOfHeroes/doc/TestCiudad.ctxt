@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=TestCiudad
+comment0.text=\r\n\ The\ test\ class\ TestCiudad.\r\n\ @author\ Juan\ Sebastian\ Fr\u00E1sica\ y\ Juan\ Sebasti\u00E1n\ G\u00F3mez\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment10.params=
+comment10.target=void\ pruebaSaltoEdificio()
+comment11.params=
+comment11.target=void\ pruebaUndoSalto()
+comment2.params=
+comment2.target=void\ zoomMas()
+comment3.params=
+comment3.target=void\ zoomMenos()
+comment4.params=
+comment4.target=void\ mejorSalto()
+comment5.params=
+comment5.target=void\ pruebaPeleaDeHeroes()
+comment6.params=
+comment6.target=void\ pruebaPeleaDeHeroes2()
+comment7.params=
+comment7.target=void\ pruebaSaltoHaciaAtras()
+comment8.params=
+comment8.target=void\ pruebaSaltoHaciaAdelante()
+comment9.params=
+comment9.target=void\ muereHeroe()
+numComments=12

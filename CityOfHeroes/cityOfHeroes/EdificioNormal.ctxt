@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EdificioNormal
+comment0.text=\r\n\ Clase\ Edificio\r\n\ Representa\ un\ edificio\ de\ la\ ciudad\r\n
+comment1.params=x\ ancho\ largo\ dureza\ largoCiudad
+comment1.target=EdificioNormal(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ constructor\ de\ la\ clase\ Edificio\ Normal\r\n
+comment2.params=
+comment2.target=java.lang.String\ pideColor()
+numComments=3

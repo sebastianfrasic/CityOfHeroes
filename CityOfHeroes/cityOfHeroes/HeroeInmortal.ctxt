@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HeroeInmortal
+comment0.text=\r\n\ El\ heroe\ Inmortal\ jam\u00E1s\ muere,\ es\ decir,\ su\ vida\ nunca\ cambiar\u00E1\ a\ pesar\ de\ que\ se\ estrelle\ con\ los\ edificios.\r\n\ Es\ rojo\ por\ defecto\r\n
+comment1.params=color\ edificioAparicion\ fuerza
+comment1.target=HeroeInmortal(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ constructor\ de\ la\ clase\ Heroe\r\n
+comment2.params=
+comment2.target=java.lang.String\ pideColor()
+comment3.params=dureza
+comment3.target=void\ setFuerza(int)
+numComments=4
